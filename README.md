@@ -1,4 +1,5 @@
 # Shembull
+-----------------------------------
 
 
 This is a Example of Spring Boot, Spring Data JPA, MySql Database, Bootstrap. created on Eclipse.
@@ -21,3 +22,10 @@ PRIMARY KEY (id));
 3 - Run it as Spring or Java Application
 
 Have Fun 
+
+## Author
+
+* [tonikolaba](https://github.com/tonikolaba)
+
+![Alt text](https://github.com/tonikolaba/download/blob/master/info/artofsoullogoVOG.png?raw=true"ArtofSoul")
+
